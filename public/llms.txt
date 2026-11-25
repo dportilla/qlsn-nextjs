@@ -1,0 +1,20 @@
+# Qualysyn
+
+> Qualysyn brinda servicios técnicos para instalaciones y equipos médicos, apoyando a clínicas, hospitales e instituciones de salud.
+
+Qualysyn ofrece adecuación de salas médicas, controles de calidad de equipos de imagenología, protección radiológica y mantenimiento preventivo y correctivo de equipos médicos. Su oficina está en Providencia, Santiago, Chile.
+
+El sitio está disponible en español, inglés y japonés. Las páginas enlazadas abajo están en español; el selector de idioma ofrece sus versiones traducidas.
+
+## Información
+
+- [Inicio](https://www.qualysyn.cl/es): Presentación de Qualysyn y sus servicios.
+- [Nosotros](https://www.qualysyn.cl/es/acerca-de): Historia, misión y compromisos.
+- [Servicios](https://www.qualysyn.cl/es/servicios): Descripción de los servicios técnicos.
+- [Solicitar evaluación](https://www.qualysyn.cl/es/evaluacion): Formulario de contacto para instituciones.
+
+## Contacto
+
+- [Correo](mailto:contacto@qualysyn.cl): Consultas generales.
+- [LinkedIn](https://www.linkedin.com/company/qual-syn/): Perfil de empresa.
+- [Instagram](https://www.instagram.com/qualysyn/): Perfil de empresa.

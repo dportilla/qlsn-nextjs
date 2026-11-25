@@ -1,0 +1,214 @@
+{
+  "partnersLabel": "Organizaciones aliadas",
+  "metadata": {
+    "home": {
+      "title": "Infraestructura y equipos médicos | Qualysyn",
+      "description": "Adecuación de salas, controles de calidad, protección radiológica y mantenimiento de equipos médicos para instituciones de salud."
+    },
+    "about": {
+      "title": "Quiénes somos | Qualysyn",
+      "description": "Conoce a Qualysyn y nuestro compromiso con la seguridad y el funcionamiento de las instalaciones y equipos médicos."
+    },
+    "services": {
+      "title": "Servicios para instalaciones y equipos médicos | Qualysyn",
+      "description": "Conoce nuestros servicios de adecuación de salas, controles de calidad, protección radiológica y mantenimiento de equipos médicos."
+    },
+    "assessment": {
+      "title": "Solicita una evaluación | Qualysyn",
+      "description": "Cuéntanos qué necesita tu institución y solicita una evaluación para tus instalaciones o equipos médicos."
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "assessment": "Solicitar evaluación",
+    "main": "Navegación principal",
+    "mobile": "Navegación móvil",
+    "open": "Abrir menú",
+    "close": "Cerrar menú",
+    "homeLabel": "Qualysyn, inicio",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Contigo en cada desafío técnico",
+    "description": "Adecuamos salas, realizamos controles de calidad y protección radiológica, y mantenemos equipos médicos para instituciones de salud.",
+    "assessment": "Solicitar evaluación",
+    "services": "Conoce nuestros servicios",
+    "workspace": "Espacio de trabajo luminoso",
+    "team": "Equipo trabajando en conjunto",
+    "office": "Interior de una oficina"
+  },
+  "footer": {
+    "description": "Servicios para instalaciones y equipos médicos en instituciones de salud.",
+    "navigation": "Navegación del pie de página",
+    "explore": "Explora",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados."
+  },
+  "aboutHero": {
+    "title": "Sobre nuestra empresa",
+    "description": "Trabajamos junto a instituciones de salud para cuidar la seguridad y el funcionamiento de sus instalaciones y equipos médicos.",
+    "assessment": "Iniciar evaluación",
+    "services": "Ver servicios"
+  },
+  "mission": {
+    "title": "Nuestra misión",
+    "description": "Ser un socio estratégico para el sector salud, con soluciones en adecuación de recintos, control de calidad, protección radiológica y mantenimiento de equipos médicos.",
+    "assessment": "Iniciar evaluación",
+    "imageAlt": "Equipo trabajando en conjunto",
+    "focusLabel": "Nuestro foco",
+    "focus": "Personas",
+    "driveLabel": "Lo que nos mueve",
+    "drive": "Propósito"
+  },
+  "howWeWork": {
+    "title": "Cómo trabajamos contigo",
+    "description": "Te acompañamos en cada etapa para desarrollar soluciones seguras y funcionales para tu institución de salud.",
+    "assessment": "Solicitar evaluación",
+    "discovery": {
+      "title": "Conocemos tus necesidades",
+      "description": "Conversamos contigo y evaluamos las condiciones de tus instalaciones o equipos."
+    },
+    "planning": {
+      "title": "Planificamos la solución",
+      "description": "Definimos una propuesta acorde a tus necesidades y a la normativa vigente."
+    },
+    "implementation": {
+      "title": "Ponemos el plan en marcha",
+      "description": "Nuestro equipo ejecuta los trabajos con atención a la seguridad y a los plazos acordados."
+    },
+    "verification": {
+      "title": "Verificamos la calidad",
+      "description": "Revisamos los resultados para favorecer el funcionamiento seguro de tus instalaciones y equipos."
+    },
+    "support": {
+      "title": "Seguimos acompañándote",
+      "description": "Te ofrecemos asesoría y soporte para cuidar la continuidad de tus operaciones."
+    }
+  },
+  "healthcarePartner": {
+    "title": "Tu socio estratégico en soluciones médicas",
+    "description": "En Qualysyn trabajamos junto a instituciones de salud y empresas del área médica para cuidar la seguridad, el funcionamiento y la continuidad de sus instalaciones y equipos médicos.",
+    "assessment": "Solicitar evaluación",
+    "imageAlt": "Equipo profesional trabajando en conjunto",
+    "safety": {
+      "label": "Nuestra prioridad",
+      "value": "Seguridad"
+    },
+    "quality": {
+      "label": "Nuestro compromiso",
+      "value": "Calidad"
+    },
+    "support": {
+      "label": "Nuestra forma de trabajar",
+      "value": "Cercanía"
+    }
+  },
+  "contactCta": {
+    "title": "Conversemos sobre tu próximo proyecto",
+    "description": "Te ayudamos a encontrar soluciones para tus instalaciones y equipos médicos, con seguridad y calidad en cada etapa.",
+    "action": "Contáctanos"
+  },
+  "homeServices": {
+    "title": "Servicios para instalaciones y equipos médicos",
+    "description": "Acompañamos a clínicas, hospitales y profesionales de la salud en sus proyectos y necesidades técnicas.",
+    "rooms": {
+      "title": "Adecuación de salas",
+      "description": "Obras civiles y adaptación de espacios médicos según las necesidades de cada instalación.",
+      "detail": "Diseñamos y adecuamos salas médicas junto a profesionales de la salud y administradores. Desde las obras civiles hasta la adaptación del espacio, consideramos el uso clínico, las necesidades de cada instalación y la normativa aplicable."
+    },
+    "quality": {
+      "title": "Controles de calidad",
+      "description": "Evaluación de equipos de imagenología para comprobar sus parámetros de funcionamiento.",
+      "detail": "Evaluamos equipos de imagenología mediante controles de calidad que permiten revisar sus parámetros de funcionamiento. Estas comprobaciones ayudan a identificar desviaciones y a mantener condiciones adecuadas para la realización de exámenes."
+    },
+    "radiation": {
+      "title": "Protección radiológica",
+      "description": "Cálculos de blindaje y mediciones radiológicas para instalaciones clínicas y hospitalarias.",
+      "detail": "Realizamos cálculos de blindaje y mediciones radiológicas para espacios clínicos y hospitalarios. Este trabajo permite evaluar las condiciones de protección de cada instalación y orientar las adecuaciones necesarias para cuidar a pacientes y equipos de trabajo."
+    },
+    "equipment": {
+      "title": "Equipos médicos",
+      "description": "Mantenimiento preventivo y correctivo para cuidar el funcionamiento de los equipos médicos.",
+      "detail": "Prestamos mantenimiento preventivo y correctivo a equipos médicos, con atención a su funcionamiento y seguridad. Revisamos las necesidades de cada dispositivo para planificar intervenciones que apoyen la continuidad del trabajo clínico."
+    },
+    "previous": "Servicio anterior",
+    "next": "Servicio siguiente",
+    "pause": "Pausar avance automático",
+    "play": "Reanudar avance automático",
+    "contact": "Conversemos sobre tu proyecto"
+  },
+  "assessment": {
+    "title": "Solicita una evaluación",
+    "description": "Cuéntanos qué necesita tu institución y conversemos sobre cómo podemos ayudarte.",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "submit": "Enviar solicitud",
+    "imageAlt": "Adecuación de una instalación médica",
+    "imageTitle": "Espacios y equipos más seguros para una mejor atención.",
+    "imageDescription": "Acompañamos a tu institución en cada etapa de su proyecto.",
+    "contactTitle": "Estamos para ayudarte",
+    "contactDescription": "Cuéntanos en qué podemos colaborar contigo.",
+    "projects": {
+      "title": "Proyectos",
+      "description": "Conversemos sobre la adecuación de tus instalaciones y las necesidades de tu proyecto."
+    },
+    "support": {
+      "title": "Soporte",
+      "description": "Solicita asesoría para el mantenimiento y funcionamiento de tus equipos médicos."
+    },
+    "general": {
+      "title": "Consultas generales",
+      "description": "Escríbenos si tienes preguntas sobre nuestros servicios o necesitas orientación."
+    },
+    "sending": "Enviando…",
+    "success": "Tu solicitud fue enviada. Nos pondremos en contacto contigo.",
+    "sendError": "No pudimos enviar tu solicitud. Inténtalo nuevamente o escríbenos a contacto@qualysyn.cl.",
+    "errors": {
+      "required": "Completa este campo.",
+      "tooLong": "El texto supera el largo permitido.",
+      "invalidEmail": "Ingresa un correo electrónico válido.",
+      "invalidSubject": "Ingresa un asunto en una sola línea."
+    }
+  },
+  "aboutStory": {
+    "title": "Experiencia que se construye en conjunto",
+    "history": "Qualysyn nace de años de aprendizaje práctico en ingeniería, servicio técnico y proyectos. Esa experiencia reúne el trabajo técnico con la atención a clientes y el liderazgo de equipos.",
+    "vision": "Creemos en la colaboración cercana con profesionales de la salud y especialistas para comprender cada necesidad y acompañar sus proyectos en cada etapa."
+  },
+  "aboutCommitments": {
+    "title": "Nuestro compromiso",
+    "description": "Sabemos que nuestro trabajo contribuye a la atención de las personas y a la continuidad de las instituciones de salud.",
+    "quality": {
+      "title": "Calidad y seguridad",
+      "description": "Trabajamos con atención a los estándares técnicos y la normativa aplicable, cuidando la seguridad de pacientes y colaboradores."
+    },
+    "integrity": {
+      "title": "Integridad y transparencia",
+      "description": "Buscamos mantener una comunicación clara, actuar con honestidad y respetar la confidencialidad de la información de cada institución."
+    },
+    "support": {
+      "title": "Cercanía y acompañamiento",
+      "description": "Ofrecemos asesoría y soporte para responder a las necesidades de nuestros clientes y construir relaciones de confianza a largo plazo."
+    }
+  },
+  "serviceMap": {
+    "title": "Nuestro trabajo, en el mundo",
+    "description": "Conoce los lugares donde hemos realizado servicios.",
+    "hint": "Arrastra para explorar o selecciona un país.",
+    "pause": "Pausar giro",
+    "play": "Activar giro",
+    "globe": "Globo interactivo. Usa las flechas para girar.",
+    "chile": "Chile",
+    "japan": "Japón",
+    "brazil": "Brasil",
+    "nicaragua": "Nicaragua",
+    "madagascar": "Madagascar"
+  }
+}

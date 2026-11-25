@@ -1,0 +1,214 @@
+{
+  "partnersLabel": "Partners",
+  "metadata": {
+    "home": {
+      "title": "Medical facilities and equipment | Qualysyn",
+      "description": "Medical room adaptation, quality control, radiation protection and medical equipment maintenance for healthcare institutions."
+    },
+    "about": {
+      "title": "About us | Qualysyn",
+      "description": "Learn about Qualysyn and our commitment to the safety and operation of medical facilities and equipment."
+    },
+    "services": {
+      "title": "Medical facility and equipment services | Qualysyn",
+      "description": "Explore our medical room adaptation, quality control, radiation protection and equipment maintenance services."
+    },
+    "assessment": {
+      "title": "Request an assessment | Qualysyn",
+      "description": "Tell us what your organization needs and request an assessment for your medical facilities or equipment."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "projects": "Projects",
+    "assessment": "Request an assessment",
+    "main": "Main navigation",
+    "mobile": "Mobile navigation",
+    "open": "Open menu",
+    "close": "Close menu",
+    "homeLabel": "Qualysyn, home",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Medical facilities and equipment for safe care",
+    "description": "We adapt medical rooms, provide quality control and radiation protection, and maintain medical equipment for healthcare institutions.",
+    "assessment": "Request an assessment",
+    "services": "Explore our services",
+    "workspace": "Bright workspace",
+    "team": "Team working together",
+    "office": "Office interior"
+  },
+  "footer": {
+    "description": "Services for medical facilities and equipment in healthcare institutions.",
+    "navigation": "Footer navigation",
+    "explore": "Explore",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "aboutHero": {
+    "title": "About our company",
+    "description": "We work alongside healthcare institutions to support the safety and operation of their facilities and medical equipment.",
+    "assessment": "Start an assessment",
+    "services": "Explore our services"
+  },
+  "mission": {
+    "title": "Our mission",
+    "description": "To be a strategic partner for healthcare, providing solutions in facility adaptation, quality control, radiation protection and medical equipment maintenance.",
+    "assessment": "Start an assessment",
+    "imageAlt": "Team working together",
+    "focusLabel": "Our focus",
+    "focus": "People",
+    "driveLabel": "What drives us",
+    "drive": "Purpose"
+  },
+  "howWeWork": {
+    "title": "How we work together",
+    "description": "We support you at every stage to develop safe, functional solutions for your healthcare facility.",
+    "assessment": "Request an assessment",
+    "discovery": {
+      "title": "Understanding your needs",
+      "description": "We talk with you and assess the condition of your facilities or equipment."
+    },
+    "planning": {
+      "title": "Planning the solution",
+      "description": "We define a proposal suited to your needs and applicable regulations."
+    },
+    "implementation": {
+      "title": "Putting the plan into action",
+      "description": "Our team carries out the work with care for safety and agreed timelines."
+    },
+    "verification": {
+      "title": "Checking quality",
+      "description": "We review the results to support the safe operation of your facilities and equipment."
+    },
+    "support": {
+      "title": "Continuing our support",
+      "description": "We provide advice and support to help keep your operations running."
+    }
+  },
+  "healthcarePartner": {
+    "title": "Your strategic partner in medical solutions",
+    "description": "At Qualysyn, we work alongside healthcare institutions and medical companies to support the safety, performance and continuity of their facilities and medical equipment.",
+    "assessment": "Request an assessment",
+    "imageAlt": "Professional team working together",
+    "safety": {
+      "label": "Our priority",
+      "value": "Safety"
+    },
+    "quality": {
+      "label": "Our commitment",
+      "value": "Quality"
+    },
+    "support": {
+      "label": "How we work",
+      "value": "Partnership"
+    }
+  },
+  "contactCta": {
+    "title": "Let’s talk about your next project",
+    "description": "We help you find solutions for your facilities and medical equipment, with safety and quality at every stage.",
+    "action": "Contact us"
+  },
+  "homeServices": {
+    "title": "Services for medical facilities and equipment",
+    "description": "We support clinics, hospitals and healthcare professionals with their projects and technical needs.",
+    "rooms": {
+      "title": "Medical room adaptation",
+      "description": "Construction and adaptation of medical spaces to meet the needs of each facility.",
+      "detail": "We plan and adapt medical rooms with healthcare professionals and facility managers. From building work to the final use of the space, we consider clinical needs, the requirements of each facility and applicable regulations."
+    },
+    "quality": {
+      "title": "Quality control",
+      "description": "Evaluation of diagnostic imaging equipment to check its operating parameters.",
+      "detail": "We carry out quality checks on diagnostic imaging equipment to review its operating parameters. These checks help identify deviations and support suitable conditions for medical examinations."
+    },
+    "radiation": {
+      "title": "Radiation protection",
+      "description": "Shielding calculations and radiation measurements for clinical and hospital facilities.",
+      "detail": "We perform shielding calculations and radiation measurements for clinics and hospitals. This work helps assess each facility's protection measures and guide any changes needed to protect patients and staff."
+    },
+    "equipment": {
+      "title": "Medical equipment",
+      "description": "Preventive and corrective maintenance to support the operation of medical equipment.",
+      "detail": "We provide preventive and corrective maintenance for medical equipment, with attention to how safely and reliably it operates. We assess each device's needs and plan work that supports the continuity of clinical care."
+    },
+    "previous": "Previous service",
+    "next": "Next service",
+    "pause": "Pause automatic advance",
+    "play": "Resume automatic advance",
+    "contact": "Discuss your project"
+  },
+  "assessment": {
+    "title": "Request an assessment",
+    "description": "Tell us what your organization needs and let’s discuss how we can help.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send request",
+    "imageAlt": "Medical facility adaptation",
+    "imageTitle": "Safer spaces and equipment for better care.",
+    "imageDescription": "We support your organization at every stage of its project.",
+    "contactTitle": "We are here to help",
+    "contactDescription": "Tell us how we can work together.",
+    "projects": {
+      "title": "Projects",
+      "description": "Talk to us about your facilities and project needs."
+    },
+    "support": {
+      "title": "Support",
+      "description": "Request advice on maintaining and operating your medical equipment."
+    },
+    "general": {
+      "title": "General enquiries",
+      "description": "Contact us with questions about our services or for guidance."
+    },
+    "sending": "Sending…",
+    "success": "Your request has been sent. We will contact you shortly.",
+    "sendError": "We could not send your request. Please try again or email contacto@qualysyn.cl.",
+    "errors": {
+      "required": "Please complete this field.",
+      "tooLong": "This text is too long.",
+      "invalidEmail": "Enter a valid email address.",
+      "invalidSubject": "Enter a subject on a single line."
+    }
+  },
+  "aboutStory": {
+    "title": "Experience built together",
+    "history": "Qualysyn grew from years of hands-on learning in engineering, technical service and projects. This experience brings together technical work, customer care and team leadership.",
+    "vision": "We believe in working closely with healthcare professionals and specialists to understand each need and support their projects at every stage."
+  },
+  "aboutCommitments": {
+    "title": "Our commitment",
+    "description": "We know our work contributes to patient care and the continuity of healthcare institutions.",
+    "quality": {
+      "title": "Quality and safety",
+      "description": "We work with attention to technical standards and applicable regulations, caring for the safety of patients and staff."
+    },
+    "integrity": {
+      "title": "Integrity and transparency",
+      "description": "We seek clear communication, honest conduct and respect for the confidentiality of each institution’s information."
+    },
+    "support": {
+      "title": "Partnership and support",
+      "description": "We offer advice and support to respond to our clients’ needs and build lasting relationships of trust."
+    }
+  },
+  "serviceMap": {
+    "title": "Our work around the world",
+    "description": "Explore the places where we have delivered services.",
+    "hint": "Drag to explore or select a country.",
+    "pause": "Pause rotation",
+    "play": "Start rotation",
+    "globe": "Interactive globe. Use arrow keys to rotate.",
+    "chile": "Chile",
+    "japan": "Japan",
+    "brazil": "Brazil",
+    "nicaragua": "Nicaragua",
+    "madagascar": "Madagascar"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "partnersLabel": "パートナー",
+  "metadata": {
+    "home": {
+      "title": "医療施設と医療機器 | Qualysyn",
+      "description": "医療機関向けに、診療室の整備、品質管理、放射線防護、医療機器の保守を提供します。"
+    },
+    "about": {
+      "title": "私たちについて | Qualysyn",
+      "description": "医療施設と医療機器の安全性と運用を支える、Qualysynの取り組みをご紹介します。"
+    },
+    "services": {
+      "title": "医療施設と機器のためのサービス | Qualysyn",
+      "description": "診療室の整備、品質管理、放射線防護、医療機器の保守サービスをご紹介します。"
+    },
+    "assessment": {
+      "title": "評価を依頼する | Qualysyn",
+      "description": "医療施設や医療機器に関するニーズをお聞かせください。評価のご依頼を承ります。"
+    }
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "services": "サービス",
+    "projects": "プロジェクト",
+    "assessment": "評価を申し込む",
+    "main": "メインナビゲーション",
+    "mobile": "モバイルナビゲーション",
+    "open": "メニューを開く",
+    "close": "メニューを閉じる",
+    "homeLabel": "Qualysyn、ホーム",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "安全な医療を支える施設と医療機器",
+    "description": "医療機関に向けて、診療室の整備、品質管理、放射線防護、医療機器の保守を提供します。",
+    "assessment": "評価を申し込む",
+    "services": "サービスを見る",
+    "workspace": "明るいワークスペース",
+    "team": "協力して働くチーム",
+    "office": "オフィスの内観"
+  },
+  "footer": {
+    "description": "医療機関の施設と医療機器を支えるサービス。",
+    "navigation": "フッターナビゲーション",
+    "explore": "サイト案内",
+    "contact": "お問い合わせ",
+    "rights": "All rights reserved."
+  },
+  "aboutHero": {
+    "title": "私たちについて",
+    "description": "医療機関とともに、施設と医療機器の安全性と運用を支えます。",
+    "assessment": "評価を始める",
+    "services": "サービスを見る"
+  },
+  "mission": {
+    "title": "私たちの使命",
+    "description": "施設整備、品質管理、放射線防護、医療機器の保守を通じて、医療分野の戦略的なパートナーとなることを目指します。",
+    "assessment": "評価を始める",
+    "imageAlt": "協力して働くチーム",
+    "focusLabel": "大切にすること",
+    "focus": "人",
+    "driveLabel": "原動力",
+    "drive": "目的"
+  },
+  "howWeWork": {
+    "title": "私たちの進め方",
+    "description": "医療施設の安全で機能的なソリューションを、各段階でサポートします。",
+    "assessment": "評価を申し込む",
+    "discovery": {
+      "title": "ニーズの把握",
+      "description": "お客様のお話を伺い、施設や機器の状況を確認します。"
+    },
+    "planning": {
+      "title": "ソリューションの計画",
+      "description": "ニーズと適用される規制に合わせた提案を行います。"
+    },
+    "implementation": {
+      "title": "計画の実施",
+      "description": "安全と合意したスケジュールに配慮しながら作業を進めます。"
+    },
+    "verification": {
+      "title": "品質の確認",
+      "description": "施設や機器の安全な運用に向けて結果を確認します。"
+    },
+    "support": {
+      "title": "継続的なサポート",
+      "description": "業務の継続を支えるため、助言とサポートを提供します。"
+    }
+  },
+  "healthcarePartner": {
+    "title": "医療ソリューションの戦略的パートナー",
+    "description": "Qualysynは医療機関や医療関連企業と協力し、施設や医療機器の安全性、機能性、継続的な運用を支えます。",
+    "assessment": "評価を申し込む",
+    "imageAlt": "協力して働く専門チーム",
+    "safety": {
+      "label": "私たちの優先事項",
+      "value": "安全"
+    },
+    "quality": {
+      "label": "私たちの約束",
+      "value": "品質"
+    },
+    "support": {
+      "label": "私たちの姿勢",
+      "value": "協力"
+    }
+  },
+  "contactCta": {
+    "title": "次のプロジェクトについて話しましょう",
+    "description": "医療施設や医療機器に向けて、安全性と品質を大切にしたソリューションをご提案します。",
+    "action": "お問い合わせ"
+  },
+  "homeServices": {
+    "title": "医療施設と機器のためのサービス",
+    "description": "クリニック、病院、医療従事者のプロジェクトや技術的なニーズを支えます。",
+    "rooms": {
+      "title": "診療室の整備",
+      "description": "各施設のニーズに合わせた医療空間の工事と整備を行います。",
+      "detail": "医療従事者や施設管理者と協力し、診療室の設計と整備を行います。工事から空間の調整まで、診療上の用途、各施設の要件、適用される規制を考慮します。"
+    },
+    "quality": {
+      "title": "品質管理",
+      "description": "画像診断機器の動作パラメーターを評価します。",
+      "detail": "画像診断機器の品質管理を通じて、動作パラメーターを確認します。こうした点検は、基準からのずれを把握し、検査に適した状態を維持するために役立ちます。"
+    },
+    "radiation": {
+      "title": "放射線防護",
+      "description": "医療施設の遮蔽計算と放射線測定を行います。",
+      "detail": "診療所や病院に向けて、遮蔽計算と放射線測定を行います。各施設の防護状況を評価し、患者とスタッフを守るために必要な改善を検討します。"
+    },
+    "equipment": {
+      "title": "医療機器",
+      "description": "医療機器の運用を支える予防保守と修理を行います。",
+      "detail": "医療機器の動作と安全性に配慮しながら、予防保守と故障時の修理を行います。機器ごとの状態と必要な作業を確認し、診療業務の継続を支えます。"
+    },
+    "previous": "前のサービス",
+    "next": "次のサービス",
+    "pause": "自動切り替えを停止",
+    "play": "自動切り替えを再開",
+    "contact": "プロジェクトについて相談する"
+  },
+  "assessment": {
+    "title": "評価を依頼する",
+    "description": "施設のニーズをお聞かせください。最適な方法を一緒に考えます。",
+    "firstName": "名",
+    "lastName": "姓",
+    "email": "メールアドレス",
+    "phone": "電話番号",
+    "subject": "件名",
+    "message": "メッセージ",
+    "submit": "依頼を送信",
+    "imageAlt": "医療施設の整備",
+    "imageTitle": "より安全な空間と機器で、より良い医療を。",
+    "imageDescription": "プロジェクトの各段階でお客様をサポートします。",
+    "contactTitle": "お気軽にご相談ください",
+    "contactDescription": "お手伝いできることをお聞かせください。",
+    "projects": {
+      "title": "プロジェクト",
+      "description": "施設の整備やプロジェクトについてご相談ください。"
+    },
+    "support": {
+      "title": "サポート",
+      "description": "医療機器の保守や運用についてご相談ください。"
+    },
+    "general": {
+      "title": "お問い合わせ",
+      "description": "サービスに関するご質問はこちらからお寄せください。"
+    },
+    "sending": "送信中…",
+    "success": "依頼を送信しました。後ほどご連絡いたします。",
+    "sendError": "送信できませんでした。再度お試しいただくか、contacto@qualysyn.cl までご連絡ください。",
+    "errors": {
+      "required": "この項目を入力してください。",
+      "tooLong": "文字数が上限を超えています。",
+      "invalidEmail": "有効なメールアドレスを入力してください。",
+      "invalidSubject": "件名は1行で入力してください。"
+    }
+  },
+  "aboutStory": {
+    "title": "ともに築く経験",
+    "history": "Qualysynは、エンジニアリング、技術サービス、プロジェクトにおける長年の実践的な学びから生まれました。技術業務と顧客対応、チームのリーダーシップを結びつけています。",
+    "vision": "医療従事者や専門家と緊密に協力し、それぞれのニーズを理解して、プロジェクトの各段階を支援します。"
+  },
+  "aboutCommitments": {
+    "title": "私たちの約束",
+    "description": "私たちの仕事は、患者のケアと医療機関の継続的な運営に貢献します。",
+    "quality": {
+      "title": "品質と安全",
+      "description": "技術基準と適用される法規に配慮し、患者と職員の安全を大切にします。"
+    },
+    "integrity": {
+      "title": "誠実さと透明性",
+      "description": "明確なコミュニケーションと誠実な対応を心がけ、各医療機関の情報の機密性を尊重します。"
+    },
+    "support": {
+      "title": "身近なパートナーとして",
+      "description": "お客様のニーズに応える助言とサポートを提供し、長期的な信頼関係を築きます。"
+    }
+  },
+  "serviceMap": {
+    "title": "世界に広がる私たちの仕事",
+    "description": "サービスを提供した地域をご覧ください。",
+    "hint": "ドラッグするか、国を選択してください。",
+    "pause": "回転を停止",
+    "play": "回転を開始",
+    "globe": "インタラクティブ地球儀。矢印キーで回転します。",
+    "chile": "チリ",
+    "japan": "日本",
+    "brazil": "ブラジル",
+    "nicaragua": "ニカラグア",
+    "madagascar": "マダガスカル"
+  }
+}
